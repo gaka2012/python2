@@ -1,0 +1,6 @@
+一.开始添加
+进入自己创建的目录下，比如 cd python
+用notepad写一个txt文件，比如1.txt
+加载这个文件，用 git add 1.txt
+托管这个文件，用 git commit -m "add"  #-m以及后面的文字是注释说明，不写也行，最好写上。
+如果想查看这个文件的内容，直接用 cat 1.txt

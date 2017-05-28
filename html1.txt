@@ -1,0 +1,37 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+<style type="text/css">
+p.indent {text-indent: 2em;}
+code.pad1 {border-style: outset}
+</style>
+</head>
+<body>
+<h1>notepadd注意事项</h1>
+<h3><a href="#N1">1.编写html时编码问题</a></h3>
+<h3><a href="#N2">2.编写python换行问题</a></h3>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<h4><a name="N1">1.编写html时编码问题</a></h4>
+<p class="indent">如果无法正确显示中文，找到菜单栏编码选项，选择以utf-8编码
+<font color='red'>!!!注意不是BOM那个选项。</font></p>
+<h4><a name="N2">2.编写python换行问题</a></h4>
+<p class="indent">在设置--首选项--语言中右边替换为空格打上对号。</p>
+<p style="color:red">woshishui</p>
+<p><code class="pad1">print()</code></p>
+</body>
+</html>
